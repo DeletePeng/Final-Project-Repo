@@ -19,4 +19,4 @@ Kappas are a type of Japanese monster. They live in rivers apparently, eat cucum
 [A source]: https://www.bokksu.com/blogs/news/essential-guide-to-japanese-monsters
 
 [Return to the previous file](second.md)
-[Go to the next file](notable.md)
+[Go to the next file](interesting.md)
