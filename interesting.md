@@ -32,4 +32,4 @@ We're done here.
 
 [Return to the previous file](notablethings.md)
 
-[Return home](READ ME.md)
+[Return home](README.md)
