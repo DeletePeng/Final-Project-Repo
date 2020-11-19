@@ -20,4 +20,5 @@ This is a stanza from one of my favorite poets, Rainer Maria Rilke.
   * These include things like competitive swimming, quizbowl, chess, writing, piano, et cetra
 
 [Here are some interesting things which I have discovered in my time on Earth](notablethings.md)
+
 [Return to the previous file](test.md)
