@@ -10,12 +10,12 @@
 >to let your shadow lengthen on the sundials
 >and in the pastures let the rough winds fly.
 
-This is a stanza from one of my favorite poets, Rainer Maria Rilke. 
+This is a stanza from one of my favorite poets, Rainer Maria Rilke. I really like his work, so I would recommend you check it out sometime. 
 
 
 
 * I grew up in the Kansas City area. I'm 18 years old and a sophomore (woo young) and have an older brother as well as a sister in law
-* The dreams of the future which I have are sparse. I hope someday to become a law professor, but I wouldn't mind becoming a software engineer or a computer technician. It's difficult 
+* The dreams of the future which I have are quite diverse I hope someday to become a law professor, but I wouldn't mind becoming a software engineer or a computer technician. It's hard to know what you really want to do, but I am trying my best.
 * It's pretty difficult to talk about myself. I enjoy a variety of activities, and have dabbled in various things in my life
   * These include things like competitive swimming, quizbowl, chess, writing, piano, et cetra
 
