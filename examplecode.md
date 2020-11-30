@@ -1,4 +1,5 @@
-`import random
+```
+import random
 from turtle import Turtle
 
 def cool_image(turtle,angle,length):
@@ -21,4 +22,5 @@ def main():
     epic = Turtle()
     epic.speed(ANIMATION_SPEED)
     cool_image(epic,30,150)
-main()`
+main()
+```
