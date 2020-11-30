@@ -32,6 +32,8 @@ We're done here. Let's move on to the next file!
 
 
 [Return to the previous file](notablethings.md)
+
 [Go to the next file](examplecode.md)
+
 [Return home](README.md)
 
