@@ -27,3 +27,4 @@ main()
 This is a neat turtle image which I made for another one of my classes. Run it in python, and check it out! It's quite cool.
 
 Oh, and here is my resume if you're interested.
+[My resume](Felix Wang's Resume.pdf)
