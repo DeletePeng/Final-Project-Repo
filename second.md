@@ -5,7 +5,7 @@
 Here is a picture of me
 
 
-![Felix](Felix.jpg)
+![Felix](emote.png)
 
 ## Who is Felix Wang?
 
