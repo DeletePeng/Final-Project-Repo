@@ -5,7 +5,7 @@
 Here is a picture of me
 
 
-![Felix](felix.png)
+![Felix](felix (2).png)
 
 ## Who is Felix Wang?
 
