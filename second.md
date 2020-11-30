@@ -2,6 +2,9 @@
 
 **Hi, my name is Felix Tianyuan Wang. I am currently a student at the University of Missouri. In these markdown documents I will be discussing some things that interest me**
 
+![Here is a picture of me](Old_guitarist_chicago.jpg)
+
+
 ## Who is Felix Wang?
 
 *A brief summary of my identity*
